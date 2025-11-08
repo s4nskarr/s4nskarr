@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s4nskarr
 - 👀 I’m interested in learning coding !
-- 🌱 I’m currently learning Java !
+- 🌱 I’m currently learning DSA !
 
 - 📫 How to reach me instagram - @sanskarrrrr_____
 - 😄 Pronouns: He/Him
